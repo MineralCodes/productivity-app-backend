@@ -1,0 +1,21 @@
+{
+	"name": "productivity-app__backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"mongoose": "^6.0.8"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.13"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "Micah Gilbertson <micah.gilbertson@gmail.com> (https://www.npmjs.com/~mgilbertson)",
+	"license": "ISC"
+}
